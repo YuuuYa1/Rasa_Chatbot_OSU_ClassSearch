@@ -12,3 +12,14 @@ We use Conda as our environment manager for python:
 4. Start the client server with `npm start`
 
 show an example of how our app stops some malicious attack
+
+### Contributors 
+   - Victor Cai
+   - Yu Huo
+   - Glen Qin
+   - Dailin Li
+   - Ray Chuang
+   - Wenhan Zhou
+   
+   (Everyone did equally contributions to the project)
+   
